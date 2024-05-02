@@ -1,2 +1,0 @@
-# reactChai
-test
